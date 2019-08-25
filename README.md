@@ -1,4 +1,5 @@
 # Continuous Intelligence and CD4ML Workshop
+User: Christoph Windheuser
 
 This workshop contains the sample application and machine learning code used for
 the Continuous Delivery for Machine Learning (CD4ML) and Continuous Intelligence
