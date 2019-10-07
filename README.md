@@ -1,5 +1,5 @@
 # Continuous Intelligence and CD4ML Workshop
-User: C.Windheuser
+User: C.Windheuser, Test
 
 This workshop contains the sample application and machine learning code used for
 the Continuous Delivery for Machine Learning (CD4ML) and Continuous Intelligence
@@ -47,4 +47,4 @@ from (in alphabetical order):
 * [Emily Grasmeder](https://github.com/emilyagras)
 * [Emily Gorcenski](https://github.com/Gorcenski)
 * [Jin Yang](https://github.com/yytina)
-* [Jonathan Heng](https://github.com/jonheng)
+* Jonathan eng](https://github.com/jonheng)
